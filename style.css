@@ -1,0 +1,35 @@
+#header{
+  text-align: right;
+}
+
+#nav ul {
+  background-color: green;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#nav li{
+  display: inline-block;
+  margin: 0 35px;
+
+}
+
+#sidebar{
+  float: right;
+}
+
+#wrap {
+  background-color: tan;
+  margin: auto;
+  width: 80%
+}
+
+body{
+  background-color: olive;
+}
+
+#content ul{
+  overflow: auto;
+  text-align: center;
+}
